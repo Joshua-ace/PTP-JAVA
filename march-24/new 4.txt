@@ -1,0 +1,13 @@
+class While2{
+ public static void main(String...args){
+  int x = 1;
+   do{
+    System.out.println(x);
+	x++;
+	}
+	while(x<=10);
+	}
+	}
+	
+	//while : First it checks the condition and executes the block 
+	//do while: First it execte the block then it go checks for the condition

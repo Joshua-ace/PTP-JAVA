@@ -1,0 +1,21 @@
+
+ //check positive or negative numbers?
+ //using terneray operator
+
+import java.util.*;
+class Pos{
+ public static void main(String...args){
+  Scanner sc = new Scanner(System.in);
+  int a = sc.nextInt();
+  
+  System.out.println((x>0) ? " Positive" : " negative");
+  
+  }
+  }
+  }
+//nested terneray (condition1) ? (expression1) : ( (condition2) ? (expression2) : expression3 );
+  
+    //including zero
+	System.out.println((x=0) ? "zero" : ((x>0) ? " positive" : " negative"))
+  
+  
